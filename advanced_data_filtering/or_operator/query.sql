@@ -1,0 +1,3 @@
+select name
+from country
+where continent='Asia' OR continent='North America'
